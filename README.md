@@ -23,7 +23,7 @@
    • Decision Making (if-else, switch-case)
 ▶️ How to Run
 
-Clone the repository git clone https://github.com/Samruddhi5411/Simple-Student-Result-Calculator.git
+Clone the repository git clone https://github.com/abhijeet02singh/Student-Result-Calculator.git
 
 Open the project in your IDE (Eclipse, IntelliJ, or VS Code)
 
